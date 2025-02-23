@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media in Education</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Social Media in Education</h1>
+        <p>Transforming Learning Through Connectivity</p>
+    </header>
+    <main>
+        <section>
+            <h2>Introduction</h2>
+            <p>
+                Social media has become a powerful tool in education, transforming the way students and teachers communicate, collaborate, and access resources. Platforms like WhatsApp, Twitter, and YouTube offer new ways to share ideas and learn both inside and outside the classroom.
+            </p>
+            <img src="https://victorycto.com/wp-content/uploads/2024/03/social-network-abstract.png" alt="world of technology">
+        </section>
+        <section>
+            <h2>Challenges</h2>
+            <ul>
+                <li><strong>Cyberbullying:</strong> Anonymity can encourage negative behaviors.</li>
+                <li><strong>Distractions:</strong> Diverts attention from academic tasks.</li>
+                <li><strong>Digital Divide:</strong> Unequal access to devices and the internet.</li>
+            </ul>
+            <img src="https://techjackie.com/wp-content/uploads/2019/07/how-will-social-media-evolve-in-future.jpg" alt="social media connection">
+        </section>
+        <section>
+            <h2>Ethical and Responsible Use</h2>
+            <p>
+                To maximize benefits, ensure:
+            </p>
+            <ul>
+                <li><strong>Privacy:</strong> Protect personal information.</li>
+                <li><strong>Respect:</strong> Maintain positive communication.</li>
+                <li><strong>Professionalism:</strong> Avoid inappropriate content online.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Future of Social Media in Education</h2>
+            <p>
+                Continuous technological advancements will make social media integral to distance learning, enriching educational experiences and engagement.
+            </p>
+        </section>
+        <div class="website-links">
+            <h2>Read Related Website</h2>
+            <a href="https://socialbu.com/blog/role-of-social-media-in-education"_blank">Website 1: Social Media in Education</a>
+            <a href="https://drascoedu.com/blog/the-impact-of-social-media-on-students-and-education/" target="_blank">Website 2: Challenges of Social Media</a>
+        </div>
+    </main>
+</body>
+</html>
